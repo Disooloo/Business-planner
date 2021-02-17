@@ -32,8 +32,8 @@ import "firebase/database";
 
  
 const database = firebase.database();
-const notesRef = database.ref("notes");
- 
+const notesRef = database.ref("users");
+  
 export default {
   name: "worker",
   metaInfo() {
@@ -51,7 +51,7 @@ export default {
   }),
   methods: {
     addNote() {
-      this.notes.push({
+      this.notes.push({ 
         title: "",
         content: ""
       });

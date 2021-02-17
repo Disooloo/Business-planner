@@ -68,12 +68,6 @@ const router = new Router({
       meta: {layout: 'main', auth: true},
       component: () => import ('./views/Worker.vue')
     },
-    // {
-    //   path: '/addworker',
-    //   name: "AddWorker",
-    //   meta: {layout: 'main', auth: true},
-    //   component: () => import ('./views/AddWorker.vue')
-    // },
     {
       path: '/clients',
       name: 'Clients',
