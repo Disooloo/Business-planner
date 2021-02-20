@@ -29,7 +29,9 @@ export default {
   }
 };
 </script>
- 
+
+
+
 <style>
 .Client {
   margin: 40px;
