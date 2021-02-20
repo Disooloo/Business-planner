@@ -30,6 +30,11 @@ const notesRef = database.ref("notes");
 
 export default {
   name: "app-client",
+  metaInfo(){
+    return{
+      title: this.$title("menu_Clients")
+    }
+  },
   components: {
     NotesList,
     Note
@@ -47,7 +52,6 @@ export default {
         emails: "",
         top: "",
         sum: "",
-
       });
       this.index = this.notes.length - 1;
     },
@@ -69,7 +73,7 @@ export default {
         phone: note.phone,
         emails: note.emails,
         top: note.top,
-        sum: node,sum,
+        sum: node.sum,
       });
     },
     createNote(note) {
