@@ -1,7 +1,7 @@
 # Бизнес планировщик
 ## Шанс 1.0
 
-[![N|Solid](https://sun9-24.userapi.com/impf/e1zJJ2ReNHP6lI1TkBJBi6bBGFKw3skFZEUDvQ/ke-Q8mlRHd8.jpg?size=666x375&quality=96&sign=73339ff21a8e7fddca54c62a5f2b7847&type=album)]()
+[![N|Solid](https://github.com/Andrei0903/sh/blob/RT2/sh/img/logo.png)]()
 
 [![N|Solid](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&type=6&v=0.63.4&x2=0
 )](https://nodesource.com/products/nsolid) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.npmjs.com/)
