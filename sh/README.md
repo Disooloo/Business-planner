@@ -1,4 +1,4 @@
-# vue-youtube
+# Business Planner
 
 ## Project setup
 ```
