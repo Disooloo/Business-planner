@@ -9,6 +9,12 @@ const router = new Router({
   base: process.env.BASE_URL,
   routes: [
     {
+      path: '/main',
+      name: 'main',
+      meta: {layout: 'main'},
+      component: () => import('./views/main.vue') 
+    },
+    {
       path: '/login',
       name: 'login',
       meta: {layout: 'empty'},

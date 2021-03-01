@@ -5,6 +5,8 @@
   "Create": "Create",
   "Bill": "Bill",
   "Name": "Name",
+  "Welcome": "Welcome: ",
+  "Main": "Main",
   "addNote": "No entries yet",
   "listClients": "Client information",
   "info_client":"info of client",
