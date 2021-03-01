@@ -1,7 +1,7 @@
 # Бизнес планировщик
 ## Шанс 1.0
 
-[![N|Solid](https://github.com/Andrei0903/sh/blob/RT2/sh/img/logo.png)]()
+*dev***
 
 [![N|Solid](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&type=6&v=0.63.4&x2=0
 )](https://nodejs.org/en/) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Andrei0903/sh/releases)
