@@ -33,6 +33,19 @@ const router = new Router({
       component: () => import('./views/Home.vue')
     },
     {
+      path: '/other',
+      name: 'Other',
+      meta: {layout: 'main', auth:true},
+      component: () => import('./views/other.vue') 
+    },
+    {
+      path: '/QRcode',
+      name: 'QRcode',
+      meta: {layout: 'main'},
+      component: () => import('./components/other/QRcode.vue')
+        //
+    },
+    {
       path: '/categories',
       name: 'categories',
       meta: {layout: 'main', auth: true},

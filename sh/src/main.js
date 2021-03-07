@@ -14,6 +14,9 @@ import titlePlugin from '@/utils/title.plugin'
 import Loader from '@/components/app/Loader'
 import './registerServiceWorker'
 import 'materialize-css/dist/js/materialize.min'
+import VueQRCodeComponent from 'vue-qrcode-component' 
+import RangeDatePicker from 'vue-easy-range-date-picker'
+
 
 import firebase from 'firebase/app'
 import 'firebase/auth'
@@ -44,7 +47,8 @@ firebase.initializeApp({
 })
 
 // export const db = firebase.firestore()
-
+Vue.component('qr-code', VueQRCodeComponent) 
+const qr = new Vue({ el: '#qr' }); 
 
 let app
 

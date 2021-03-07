@@ -7,7 +7,9 @@
             {{"Welcome"| localize}} &ensp; 
            <a class="dropdown-trigger black-text asd" href="#" data-target="dropdown" ref="dropdown">{{name}}</a>
         </div>
+        
     </div>
+    
 </template>
 
 
