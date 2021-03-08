@@ -12,6 +12,8 @@
   "info_client":"info of client",
   "Exit": "Exit",
   "Edit": "Edit",
+  "Menu_Create":"Create",
+  "Menu_Control":"Control",
   "myClients":"My clients",
   "Client":"Clients",
   "month": "Month",

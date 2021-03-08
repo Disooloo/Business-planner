@@ -22,11 +22,12 @@ export default {
       { title: localizeFilter('Menu_Bill'), url: '/', exact: true },
       { title: localizeFilter('Menu_History'), url: '/history' },
       { title: localizeFilter('Menu_Planning'), url: '/planning' },
-      { title: localizeFilter('Menu_NewRecord'), url: '/record' },
-      { title: localizeFilter('Menu_Categories'), url: '/categories' },
-      { title: localizeFilter('Menu_Worker'), url: '/worker' },
-      { title: localizeFilter('Menu_Clients'), url: '/Clients' },
-
+      {title: localizeFilter('Menu_Create'), url: "/Create"},
+      {title: localizeFilter('Menu_Control'), url: "/Control"},
+      // { title: localizeFilter('Menu_NewRecord'), url: '/record' },
+      // { title: localizeFilter('Menu_Categories'), url: '/categories' },
+      // { title: localizeFilter('Menu_Worker'), url: '/worker' },
+      // { title: localizeFilter('Menu_Clients'), url: '/Clients' },
     ]
   })
 }

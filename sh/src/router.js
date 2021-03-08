@@ -52,6 +52,18 @@ const router = new Router({
       component: () => import('./views/Categories.vue')
     },
     {
+      path: '/create',
+      name: 'Create',
+      meta: {layout: 'main', auth: true},
+      component: () => import('./views/Create.vue')
+    },
+    {
+      path: '/control',
+      name: 'Control',
+      meta: {layout: 'main', auth: true},
+      component: () => import('./views/Control.vue')
+    },
+    {
       path: '/detail/:id',
       name: 'detail',
       meta: {layout: 'main', auth: true},
