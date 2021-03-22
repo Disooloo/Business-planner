@@ -131,7 +131,7 @@ export default {
 
 <style>
 #app-client {
-  text-align: center;
-  max-width: 700px;
+ 
+  display: block;
 }
 </style>

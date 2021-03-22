@@ -12,9 +12,12 @@
             </li>
         </ul>
         <button @click="addNote()" class="btn btn-info">{{'add'|localize}}</button>
+
+
     </div>  
 </template>
  
+
 <script>
 export default {
   name: "NoteList",

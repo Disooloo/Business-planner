@@ -39,6 +39,18 @@ const router = new Router({
       component: () => import('./views/other.vue') 
     },
     {
+      path: '/tools',
+      name: 'Tools',
+      meta: {layout: 'main', auth: true},
+      component:() => import('./views/Tools.vue')
+    }, 
+    {
+      path: '/calendar',
+      name: 'Calendar',
+      meta: {layout: 'main', auth: true},
+      component:() => import('./components/calendar.vue')
+    },
+    {
       path: '/QRcode',
       name: 'QRcode',
       meta: {layout: 'main'},

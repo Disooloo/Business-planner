@@ -12,11 +12,11 @@
         </div>
       </main>
 
-      <div class="fixed-action-btn" :key="locale + '1'">
+      <!-- <div class="fixed-action-btn" :key="locale + '1'">
                <router-link class="btn-floating btn-large indigo" to="/record" v-tooltip="'Создать новую запись'">
           <i class="large material-icons">add</i>
         </router-link>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>
