@@ -9,15 +9,8 @@
 
 | Релиз  | Статус              | Кодовое имя    | Первый Выпуск | Активный запуск LTS | Начало технического обслуживания 
 :--:     | :---:               | :---:       | :---:          | :---:            | :---:   
-| [Pre-Alpha 1.10.19](https://github.com/Andrei0903/Business-planner/releases/tag/Releas) | **Development**     | Start | 2021-01-14|2021-02-25 | -|
-
-
-
-| Релиз  | Статус              | Кодовое имя    | Первый Выпуск | Активный запуск LTS | Начало технического обслуживания 
-:--:     | :---:               | :---:       | :---:          | :---:            | :---:   
 | [Pre-Alpha 1.20.32](https://github.com/Andrei0903/Business-planner/releases/tag/Re) | **Development**  | Pre | 2021-03-23|2021-03-23 | 2021-03-23|
 | [Pre-Alpha 1.10.19](https://github.com/Andrei0903/Business-planner/releases/tag/Releas) | **Development**  | Start | 2021-01-14|2021-02-25 | -|
-
 
 
 Создание бизнес-планировщика «Шанс 1.0» предполагает решение следующих задач:
