@@ -45,6 +45,6 @@
 
 ![](https://img.icons8.com/fluent/344/insert.png)
 
-> Не требует установки в режиме [Deploy](http://j1150654.myjino.ru/)
+> Не требует установки в режиме [Deploy](sh-planner.ru)
 
 Установка в режиме Developer - [Клик](https://github.com/Andrei0903/sh/tree/main/sh)
